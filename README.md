@@ -124,7 +124,8 @@ uvx pre-commit run --all-files
 uvx pre-commit run --all-files
 
 # run the example module to verify the environment (.venv/)
-uv run python -m mlstudio.app_case
+
+
 
 # run common chores: format, lint, run checks and tests...
 uv run ruff format .
