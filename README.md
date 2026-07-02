@@ -1,5 +1,8 @@
 # ml-01-intro
 
+### Author: Molly Shelhamer
+#### Date: 07/2026
+
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
@@ -96,7 +99,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/ml-01-intro
+git clone https://github.com/mollyshelhamer/ml-01-intro
 
 cd ml-01-intro
 code .
